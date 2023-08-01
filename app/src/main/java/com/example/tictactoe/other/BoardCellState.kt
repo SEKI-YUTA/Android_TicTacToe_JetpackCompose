@@ -1,4 +1,4 @@
-package com.example.tictactoe
+package com.example.tictactoe.other
 
 sealed class BoardCellState {
     object NotApplyed: BoardCellState()
